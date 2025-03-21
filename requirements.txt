@@ -1,0 +1,6 @@
+pandas
+openpyxl
+requests
+tabulate
+colored
+python-dotenv
